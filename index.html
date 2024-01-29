@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portrait Chinois</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <favicon href="img/favicon.ico">
+</head>
+<body>
+    
+<header class="page accueil"> 
+
+    <div class="accueil">
+        <h1 class="titre">Portrait chinois</h1>
+        <h2 class="nom">Valentin Jourdain</h2>
+    </div>
+    <a href="#element_arbre"><img class="fleche" src="img/down.svg" alt="fleche"></a>
+</header>
+
+<div id="analogies"></div>
+<div id="customAnalogie"></div>
+
+<section class="formulaire" id="formulaire">
+    <form method="get">
+    <fieldset class="fieldset">
+        <legend class="legend"> <h4>Ajoutez votre analogie</h4></legend><br>
+
+        <label for="Si j'étais"> Si j'étais...* </label>
+        <input type="text" id="analogie" placeholder="analogie" required><br>
+
+        <label for="Je serais"> je serais...* </label>
+        <input type="text" id="valeurAnalogie" placeholder="comparant" required><br>
+
+        <legend class="legend">car...*</legend>
+        <textarea name="remarques" id="pourquoi" cols="25" rows="6" placeholder="500 caractères max.  " maxlength="500" required></textarea><br><br>
+
+        <label for="image"> Illustration </label>
+        <input type="url" id="lienimage" placeholder="URL de l'image"><br>
+
+        <label for="mail">Votre mail:* </label>
+        <input type="email" id="mail" placeholder="mail@mail.com" required><br>
+        <a href="#findiv">
+        <input type="button" value="Créer mon analogie" class="send">
+        <!-- <p class="send">Envoyer</p> -->
+        </a>
+    </fieldset>
+</form>
+</section>
+
+
+<div class="modal-container"></div>
+<div class="overlay modal"></div>
+<button class=" bouton modalButton">Mentions Légales</button>
+
+<footer>
+    <div class="volet volet-invisible">
+        <button class="bouton fermeture">X</button>
+        <div class="mentions">
+        <h2>Mentions légales</h2>
+        <p>
+            Sité crée par Valentin Jourdain dans le cadre de la SAE105 du BUT MMI de Champs sur Marne.
+            <br> Remerciements aux professeurs impliqués dans ce projet: Philippe Gambette, Gaëlle Charpentier, Matthieu Berthet, Mélina Guyon<br>
+            Directeur de la publication, Conception graphique et Développement : Valentin Jourdain, étudiant de l’Université Gustave Eiffel
+        </p>
+            
+            </br>Hébergeur : Université Gustave Eiffel
+            </br>
+            </br>Université Gustave Eiffel : 5 boulevard Descartes - Champs-sur-Marne - 77454 Marne-la-Vallée Cedex2
+            - Tél : 33(1).60.95.75.00 - Fax : 33(1).60.95.75.75
+            </br>
+            </br>Législation relative aux données à caractère personnel
+            </br>
+            </br>Le formulaire permettant la création d’une analogie personnalisée recueil votre adresse de courriel
+            et votre adresse IP. Pour toute question portant sur la collecte ou le traitement de vos données à
+            caractère personnel par l’UPEM, vous pouvez saisir la personne responsable du traitement des données qui
+            est : Philippe Gambette (philippe.gambette@univ-eiffel.fr) <br> Les fichiers détenus par l'UPEM qui
+            comportent des données à caractère personnel ne seront jamais transmis à des tiers et ne feront jamais
+            l'objet d'une commercialisation.
+        </p>
+    </div>
+    </div>
+</footer>
+
+
+
+
+</body>
+</html>

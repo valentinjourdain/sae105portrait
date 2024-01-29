@@ -1,0 +1,66 @@
+[
+    {
+        "analogies": "un élément de la nature",
+        "valeurAnalogies": "un arbre",
+        "text": "Ce sont de majestueux êtres vivants immobiles condamnées à observer leurs alentours toute leur vie. Ils évoquent la protection et la sérénité. Ce sont les gardiens de la nature portant les cicatrices du temps. J'aimerais être un arbre car je pourrais toute ma vie admirer et contempler les environs.",
+        "url": "img/img_arbre.jpg",
+        "id": "element_arbre",
+        "credits": "Science et vie magazine, M. RÜGNER"
+    },
+    {
+        "analogies": "un jeu vidéo",
+        "valeurAnalogies": "Minecraft",
+        "text": "Ce jeu de type bac à sable est le point de départ de l'imagination. Il semble très simple au premier abord, mais il permet d'avoir une infinité de possibilités. C'est un jeu très créatif qui permet de se détendre tout en laissant libre cours à son imagination. Ce jeu m'a beaucoup marqué et m'a fait découvrir de nouvelles choses.",
+        "url": "img/img_mc.jpg",
+        "id": "jeu_mc",
+        "credits": "Mojang, Microsoft"
+    },
+    {
+        "analogies": "un objet",
+        "valeurAnalogies": "un clavier d'ordinateur",
+        "text": "C'est un objet indispensable aujourd'hui. Il permet d'écrire tout ce à quoi on peut imagner, et de créer tout ce qui existe aujourd'hui à l'aide de simples appuis sur des touches. C'est un objet qui évoque l'informatique et la créativité.",
+        "url": "img/img_clavier.jpg",
+        "id": "objet_clavier",
+        "credits": "Mainatework"
+    },
+    {
+        "analogies": "une saison",
+        "valeurAnalogies": "l'hiver",
+        "text": "C'est une saison qui peut sembler difficile à apprécier, mais qui est en réalité très poétique et contemplative. C'est une période qui invite à la réflexion et à l'introspection, avec un climat que j'apprécie beaucoup.",
+        "url": "img/img_hiver.jpg",
+        "id": "saison_hiver",
+        "credits": "Valentin Jourdain"
+    },
+    {
+        "analogies": "une couleur",
+        "valeurAnalogies": "le vert",
+        "text": "C'est une couleur qui peut être apaisante et vivifiante, mais elle évoque surtout la nature. Cette teinte symbolise l'espoir et la crosisance, c'est une couleur qui invite à regarder vers l'avenir. Elle est pleine de vie.",
+        "url": "img/img_vert.jpg",
+        "id": "couleur_vert",
+        "credits": "Joan Mitchell, Untitled, 1979"
+    },
+    {
+        "analogies": "un animal",
+        "valeurAnalogies": "un chat",
+        "text": "C'est un animal élégant et mystérieux. Il est très indépendant et peut sembler distant, mais il est en réalité très affectueux. Il est très curieux et aime explorer son environnement. Il est très calme et apaisant, et il est très agréable de le caresser. Cet animal dort beaucoup et est un compagnon de vie pour beaucoup d'entre nous, c'est un ami loyal.",
+        "url": "img/img_chat.jpg",
+        "id": "animal_chat",
+        "credits": "Valentin Jourdain"
+    },
+    {
+        "analogies": "un Pokémon",
+        "valeurAnalogies": "Aspicot",
+        "text": "Aspicot est un Pokémon Insecte et Poison de la première génération. Il est à moitié chenille et à moitié asticot. Sa tête est recouverte d’un aiguillon empoisonné qui fait sa dangereuse réputation. Il est capable de se camoufler dans les bois et les herbes et se nourrit de feuilles a longueur de journée. C'est la vie de rêve.",
+        "url": "img/img_aspicot.jpg",
+        "id": "pokemon_aspicot",
+        "credits": "The Pokemon Company"
+    },
+    {
+        "analogies": "un défaut",
+        "valeurAnalogies": "la procrastination",
+        "text": "Car j'écris ce texte le 10 janvier 2024, alors que j'aurais tout de même pu m'y prendre plus tôt. C'est un défaut qui me poursuit beaucoup dans ma vie quotidienne. C'est quelque chose que je dois travailler pour m'améliorer dans mon travail personnel.",
+        "url": "img/img_procrastination.jpg",
+        "id": "defaut_procrastination",
+        "credits": "Stockify images"
+    }
+]
